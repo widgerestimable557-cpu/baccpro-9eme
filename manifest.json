@@ -1,0 +1,22 @@
+{
+  "name": "9emePRO",
+  "short_name": "9emePRO",
+  "description": "Quiz interactif pour la 9eme annee fondamentale - Haiti",
+  "start_url": "https://script.google.com/macros/s/AKfycbwTnQK4MHIulnKL7V_9t-5vqAgsPz8VNM_SqgCt6zUYgjKlT8fpS-nBQvaHpOjY063X/exec",
+  "display": "standalone",
+  "background_color": "#0A1A0F",
+  "theme_color": "#69F0AE",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
